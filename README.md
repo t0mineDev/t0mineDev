@@ -1,35 +1,30 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Olá, eu sou a Julia Tomine 👩‍💻
 
-###
+Sou uma **Desenvolvedora Backend** apaixonada por criar soluções eficientes e escaláveis. Atualmente trabalho com tecnologias robustas como **Java**, **Spring Framework**, **SQL** e **Docker**.
 
-<p align="left">System.out.println("Welcome to my Github!")</p>
+---
 
-###
+## 🚀 Tecnologias e Ferramentas
 
-<h2 align="left">About me</h2>
+- ⚙️ **Java**
+- 🌱 **Spring Framework (Boot, MVC, Security)**
+- 🗃️ **SQL (MySQL, PostgreSQL)**
+- 🐳 **Docker**
+- 🛠️ Git, GitHub, IntelliJ IDEA, Postman
 
-###
+---
 
-<p align="left">✨ Cursando Fatec em Análise e Desenvolvimento de Sistemas</p>
+## 📈 GitHub Stats
 
-###
+![Julia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliatomine&show_icons=true&theme=dracula)
 
-<h2 align="left">I code with</h2>
+---
 
-###
+## 📫 Vamos nos conectar?
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
 
-###
+---
+
+🌱 Sempre aprendendo, sempre evoluindo.
