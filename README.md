@@ -16,7 +16,7 @@ Sou uma **Desenvolvedora Backend** apaixonada por criar soluções eficientes e 
 
 ## 📈 GitHub Stats
 
-![t0mineDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliatomine&show_icons=true&theme=dracula)
+![t0mineDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=t0mineDev&show_icons=true&theme=dracula)
 
 ---
 
