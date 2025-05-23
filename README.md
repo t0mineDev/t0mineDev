@@ -1,30 +1,63 @@
-# Olá, eu sou a Julia Tomine 👩‍💻
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-Sou uma **Desenvolvedora Backend** apaixonada por criar soluções eficientes e escaláveis. Atualmente trabalho com tecnologias robustas como **Java**, **Spring Framework**, **SQL** e **Docker**.
+###
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/julia-tomine/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
-## 🚀 Tecnologias e Ferramentas
+###
 
-- ⚙️ **Java**
-- 🌱 **Spring Framework (Boot, MVC, Security)**
-- 🗃️ **SQL (MySQL, PostgreSQL)**
-- 🐳 **Docker**
-- 🛠️ Git, GitHub, IntelliJ IDEA, Postman
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=t0mine.t0mine&"  />
+</div>
 
----
+###
 
-## 📈 GitHub Stats
+<h1 align="center">Hey, There!👩🏻‍💻</h1>
 
-![t0mineDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=t0mineDev&show_icons=true&theme=dracula)
+###
 
----
+<h3 align="left">👩‍💻  About Me</h3>
 
-## 📫 Vamos nos conectar?
+###
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-tomine/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sayuri.tomine@gmail.com)
+<p align="left">Backend Developer<br><br>Fatec - ADS</p>
 
----
+###
 
-🌱 Sempre aprendendo, sempre evoluindo.
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=t0mine&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
